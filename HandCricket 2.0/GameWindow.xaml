@@ -1,0 +1,39 @@
+﻿<Controls:MetroWindow x:Class="HandCricket_2._0.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HandCricket_2._0"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        BorderBrush="{DynamicResource AccentColorBrush}"
+        
+                      WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize"
+        Title="HandCricket 2.0 - Game" Height="365.843" Width="623.033" BorderThickness="1">
+    <Grid>
+        <TextBlock x:Name="team1" HorizontalAlignment="Left" Height="27" Margin="10,10,0,0" TextWrapping="Wrap" Text="IND" VerticalAlignment="Top" Width="71" FontSize="18" FontWeight="Bold" FontFamily="Segoe UI Semibold"/>
+        <TextBlock x:Name="team1_Score" HorizontalAlignment="Left" Height="27" Margin="86,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90" FontSize="18" TextAlignment="Center"/>
+        <TextBlock x:Name="team1_Copy1" HorizontalAlignment="Left" Height="27" Margin="230,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71" FontSize="18" TextAlignment="Center" FontFamily="Segoe UI Semilight"><Run Text="Target:"/></TextBlock>
+        <TextBlock x:Name="targetBlock" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="90" FontSize="18" TextAlignment="Center" Margin="306,10,0,0" Text="-"/>
+        <TextBlock x:Name="team2" HorizontalAlignment="Left" Height="27" Margin="439,10,0,0" TextWrapping="Wrap" Text="AUS" VerticalAlignment="Top" Width="71" FontSize="18" TextAlignment="Center" FontWeight="Bold" FontFamily="Segoe UI Semibold"/>
+        <TextBlock x:Name="team2_Score" HorizontalAlignment="Left" Height="27" Margin="515,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90" FontSize="18" TextAlignment="Right"/>
+        <TextBlock x:Name="team1_Copy5" HorizontalAlignment="Left" Height="27" Margin="10,56,0,0" TextWrapping="Wrap" Text="Batting:" VerticalAlignment="Top" Width="71" FontSize="18" FontFamily="Segoe UI Semilight"/>
+        <TextBlock x:Name="batsman" HorizontalAlignment="Left" Height="27" Margin="86,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="519" FontSize="18"/>
+        <TextBlock x:Name="team1_Copy8" HorizontalAlignment="Left" Height="27" Margin="10,102,0,0" TextWrapping="Wrap" Text="Your Throw:" VerticalAlignment="Top" Width="117" FontSize="18" FontFamily="Segoe UI Semilight"/>
+        <TextBlock x:Name="myThrow" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" FontSize="18" TextAlignment="Center" Margin="132,102,0,0"/>
+        <TextBlock x:Name="team1_Copy10" HorizontalAlignment="Left" Height="27" Margin="390,102,0,0" TextWrapping="Wrap" Text="Computer's Throw:" VerticalAlignment="Top" Width="166" FontSize="18" TextAlignment="Center" FontFamily="Segoe UI Semilight"/>
+        <TextBlock x:Name="compThrow" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" FontSize="18" TextAlignment="Center" Margin="561,102,0,0"/>
+        <Button x:Name="click1" Content="1" HorizontalAlignment="Left" Margin="21,164,0,0" VerticalAlignment="Top" Width="60" Height="60
+                " FontSize="21" Background="{x:Null}" Foreground="White" Click="click1_Click"/>
+        <Button x:Name="click2" Content="2" HorizontalAlignment="Left" Margin="86,164,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click2_Click"/>
+        <Button x:Name="click3" Content="3" HorizontalAlignment="Left" Margin="151,164,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click3_Click"/>
+        <Button x:Name="click4" Content="4" HorizontalAlignment="Left" Margin="216,164,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click4_Click"/>
+        <Button x:Name="click5" Content="5" HorizontalAlignment="Left" Margin="281,164,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click5_Click"/>
+        <Button x:Name="click6" Content="6" HorizontalAlignment="Left" Margin="21,229,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click6_Click"/>
+        <Button x:Name="click7" Content="7" HorizontalAlignment="Left" Margin="86,229,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click7_Click"/>
+        <Button x:Name="click8" Content="8" HorizontalAlignment="Left" Margin="151,229,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click8_Click"/>
+        <Button x:Name="click9" Content="9" HorizontalAlignment="Left" Margin="216,229,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click9_Click"/>
+        <Button x:Name="click10" Content="10" HorizontalAlignment="Left" Margin="281,229,0,0" VerticalAlignment="Top" Width="60" Height="60                 " FontSize="21" Background="{x:Null}" Foreground="White" Click="click10_Click"/>
+        <Button x:Name="viewScoreCard"  Content="View Scorecard" HorizontalAlignment="Left" Height="42" Margin="385,206,0,0" VerticalAlignment="Top" Width="204" FontSize="16" Click="viewScoreCard_Click"/>
+    </Grid>
+</Controls:MetroWindow>

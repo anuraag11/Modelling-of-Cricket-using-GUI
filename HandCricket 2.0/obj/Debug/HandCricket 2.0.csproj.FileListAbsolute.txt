@@ -1,0 +1,77 @@
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe.config
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.pdb
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.g.cs
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.cache
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.lref
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.g.resources
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket_2._0.Properties.Resources.resources
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.exe
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.pdb
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.dll
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\System.Windows.Interactivity.dll
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.pdb
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.xml
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.baml
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.g.cs
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.baml
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.g.cs
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.baml
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.g.cs
+D:\Visual Studio Projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe.config
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.exe
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.pdb
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.pdb
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.dll
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\System.Windows.Interactivity.dll
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.pdb
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.xml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csprojResolveAssemblyReference.cache
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.g.cs
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.g.cs
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.g.cs
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.g.cs
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.g.cs
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.cache
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.lref
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.baml
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.g.resources
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket_2._0.Properties.Resources.resources
+D:\My completed projects\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.GenerateResource.Cache
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe.config
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.exe
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\HandCricket 2.0.pdb
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.dll
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\System.Windows.Interactivity.dll
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.pdb
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\bin\Debug\MahApps.Metro.xml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.AssemblyReference.cache
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.g.cs
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.g.cs
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.g.cs
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.g.cs
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.g.cs
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.cache
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0_MarkupCompile.lref
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\App.baml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\GameWindow.baml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\MainWindow.baml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\ScoreCard.baml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\SplashScreen1.baml
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.g.resources
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket_2._0.Properties.Resources.resources
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.GenerateResource.cache
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.CoreCompileInputs.cache
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.csproj.CopyComplete
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.exe
+D:\HandCricket 2\HandCricket 2.0\HandCricket 2.0\obj\Debug\HandCricket 2.0.pdb
